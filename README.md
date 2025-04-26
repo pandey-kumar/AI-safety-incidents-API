@@ -6,6 +6,16 @@ A RESTful API service for logging and managing AI safety incidents. This project
 
 This project implements a backend API service for HumanChain's AI Safety Incident Log. It provides endpoints to create, retrieve, and delete AI safety incidents, allowing for efficient management of hypothetical AI safety events.
 
+
+## screen shots of implementation
+
+![App Screenshot](./assets/get.png)
+![App Screenshot](./assets/post.png)
+![App Screenshot](./assets/getId.png)
+![App Screenshot](./assets/deleteId.png)
+
+
+
 ## 🎯 Project Objectives
 
 1. **Data Management**: Efficiently store and retrieve AI safety incident data using MongoDB.
