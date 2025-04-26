@@ -13,6 +13,7 @@ This project implements a backend API service for HumanChain's AI Safety Inciden
 ![App Screenshot](./assets/post.png)
 ![App Screenshot](./assets/getId.png)
 ![App Screenshot](./assets/deleteId.png)
+![App Screenshot](./assets/mongo.png)
 
 
 
